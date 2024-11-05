@@ -29,6 +29,7 @@ body, html {
     gap: 10px;
     display:flex;
     align-items: center;
+    color: transparent;
 }
 
 .box1 {
